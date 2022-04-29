@@ -13,4 +13,5 @@
 
 <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=RemiMerdinian" alt="willianrod&#39;s wakatime stats"></a></p>
 
-<a href="https://wakatime.com/@bfda5c40-7700-43fc-9ff6-cd1f5b0d2501"><img src="https://wakatime.com/badge/user/bfda5c40-7700-43fc-9ff6-cd1f5b0d2501.svg" alt="Total time coded since Apr 29 2022" /></a>
+<p><a href="https://wakatime.com/@bfda5c40-7700-43fc-9ff6-cd1f5b0d2501"><img src="https://wakatime.com/badge/user/bfda5c40-7700-43fc-9ff6-cd1f5b0d2501.svg" alt="wakatime"></a></p>
+
