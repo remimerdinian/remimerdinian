@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rémi Merdinian</h1>
-<h3 align="center">Developper Web in formation</h3>
+<h3 align="center">Web Designer in formation</h3>
 
 - 🔭 I’m currently working on **my developpement Web formation**
 
